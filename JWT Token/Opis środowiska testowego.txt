@@ -1,0 +1,122 @@
+Microsoft Visual Studio Enterprise 2019
+Version 16.11.2
+VisualStudio.16.Release/16.11.2+31624.102
+Microsoft .NET Framework
+Version 4.8.04084
+
+Installed Version: Enterprise
+
+ASP.NET and Web Tools 2019   16.11.75.64347
+ASP.NET and Web Tools 2019
+
+ASP.NET Web Frameworks and Tools 2019   16.11.75.64347
+For additional information, visit https://www.asp.net/
+
+Azure App Service Tools v3.0.0   16.11.75.64347
+Azure App Service Tools v3.0.0
+
+Azure Functions and Web Jobs Tools   16.11.75.64347
+Azure Functions and Web Jobs Tools
+
+C# Tools   3.11.0-4.21403.6+ae1fff344d46976624e68ae17164e0607ab68b10
+C# components used in the IDE. Depending on your project type and settings, a different version of the compiler may be used.
+
+Common Azure Tools   1.10
+Provides common services for use by Azure Mobile Services and Microsoft Azure Tools.
+
+Extensibility Message Bus   1.2.6 (master@34d6af2)
+Provides common messaging-based MEF services for loosely coupled Visual Studio extension components communication and integration.
+
+IntelliCode Extension   1.0
+IntelliCode Visual Studio Extension Detailed Info
+
+Microsoft Azure Tools for Visual Studio   2.9
+Support for Azure Cloud Services projects
+
+Microsoft Continuous Delivery Tools for Visual Studio   0.4
+Simplifying the configuration of Azure DevOps pipelines from within the Visual Studio IDE.
+
+Microsoft JVM Debugger   1.0
+Provides support for connecting the Visual Studio debugger to JDWP compatible Java Virtual Machines
+
+Microsoft Library Manager   2.1.113+g422d40002e.RR
+Install client-side libraries easily to any web project
+
+Microsoft MI-Based Debugger   1.0
+Provides support for connecting Visual Studio to MI compatible debuggers
+
+Microsoft Visual Studio Tools for Containers   1.2
+Develop, run, validate your ASP.NET Core applications in the target environment. F5 your application directly into a container with debugging, or CTRL + F5 to edit & refresh your app without having to rebuild the container.
+
+Mono Debugging for Visual Studio   16.10.15 (552afdf)
+Support for debugging Mono processes with Visual Studio.
+
+NuGet Package Manager   5.11.0
+NuGet Package Manager in Visual Studio. For more information about NuGet, visit https://docs.nuget.org/
+
+ProjectServicesPackage Extension   1.0
+ProjectServicesPackage Visual Studio Extension Detailed Info
+
+Razor (ASP.NET Core)   16.1.0.2122504+13c05c96ea6bdbe550bd88b0bf6cdddf8cde1725
+Provides languages services for ASP.NET Core Razor.
+
+Snapshot Debugging Extension   1.0
+Snapshot Debugging Visual Studio Extension Detailed Info
+
+SQL Server Data Tools   16.0.62107.28140
+Microsoft SQL Server Data Tools
+
+TypeScript Tools   16.0.30526.2002
+TypeScript Tools for Microsoft Visual Studio
+
+Visual Basic Tools   3.11.0-4.21403.6+ae1fff344d46976624e68ae17164e0607ab68b10
+Visual Basic components used in the IDE. Depending on your project type and settings, a different version of the compiler may be used.
+
+Visual F# Tools   16.11.0-beta.21322.6+488cc578cafcd261d90d748d8aaa7b8b091232dc
+Microsoft Visual F# Tools
+
+Visual Studio Code Debug Adapter Host Package   1.0
+Interop layer for hosting Visual Studio Code debug adapters in Visual Studio
+
+Visual Studio Container Tools Extensions   1.0
+View, manage, and diagnose containers within Visual Studio.
+
+Visual Studio Tools for Containers   1.0
+Visual Studio Tools for Containers
+
+VisualStudio.DeviceLog   1.0
+Information about my package
+
+VisualStudio.Foo   1.0
+Information about my package
+
+VisualStudio.Mac   1.0
+Mac Extension for Visual Studio
+
+Xamarin   16.11.000.174 (d16-11@e8f56f1)
+Visual Studio extension to enable development for Xamarin.iOS and Xamarin.Android.
+
+Xamarin Designer   16.11.0.17 (remotes/origin/11e0001f0b17269345e80b58fb3adf1ba4efe2cd@11e0001f0)
+Visual Studio extension to enable Xamarin Designer tools in Visual Studio.
+
+Xamarin Templates   16.10.5 (355b57a)
+Templates for building iOS, Android, and Windows apps with Xamarin and Xamarin.Forms.
+
+Xamarin.Android SDK   11.4.0.5 (d16-11/7776c9f)
+Xamarin.Android Reference Assemblies and MSBuild support.
+    Mono: c633fe9
+    Java.Interop: xamarin/java.interop/d16-11@48766c0
+    ProGuard: Guardsquare/proguard/v7.0.1@912d149
+    SQLite: xamarin/sqlite/3.35.4@85460d3
+    Xamarin.Android Tools: xamarin/xamarin-android-tools/d16-11@683f375
+
+
+Xamarin.iOS and Xamarin.Mac SDK   14.20.0.25 (3b53e529b)
+Xamarin.iOS and Xamarin.Mac Reference Assemblies and MSBuild support.
+
+
+
+
+Windows 10
+
+Postman

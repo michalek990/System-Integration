@@ -1,0 +1,29 @@
+Windows 11
+
+Visual Studio:
+Wersja: 1.66.1 (user setup)
+Zatwierdzenie: 8dfae7a5cd50421d10cd99cb873990460525a898
+Data: 2022-04-06T14:50:12.141Z
+Electron: 17.2.0
+Chromium: 98.0.4758.109
+Node.js: 16.13.0
+V8: 9.8.177.11-electron.0
+OS: Windows_NT x64 10.0.22000
+
+Intellij IDEA:
+IntelliJ IDEA 2021.3.1 (Community Edition)
+Build #IC-213.6461.79, built on December 28, 2021
+Runtime version: 11.0.13+7-b1751.21 amd64
+VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
+Windows 11 10.0
+GC: G1 Young Generation, G1 Old Generation
+Memory: 2040M
+Cores: 12
+Non-Bundled Plugins:
+    idea.plugin.protoeditor (213.6461.28)
+    org.jetbrains.kotlin (213-1.6.10-release-923-IJ5744.223)
+    com.haulmont.jpab (2022.1.2-213)
+
+Kotlin: 213-1.6.10-release-923-IJ5744.223
+
+XAMPP Control Panel v3.3.0

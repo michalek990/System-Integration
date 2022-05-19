@@ -1,0 +1,25 @@
+// See https://aka.ms/new-console-template for more information
+
+using System;
+using System.Threading.Channels;
+using ServiceReference1;
+
+namespace LAB5_SOAP_client {
+    internal class Program
+    {
+        static async Task Main(string[] args)
+        {
+            Console.WriteLine("My First SOAP Client!");
+            MyFirstSOAPInterfaceClient client = new
+            MyFirstSOAPInterfaceClient();
+            string text = await
+            client.getHelloWorldAsStringAsync("Jacek");
+            Console.WriteLine(text);
+            
+            
+            long numberOfDays = await
+            client.getDaysBetweenDatesAsync("01 02 2022", "03 04 2022");
+            Console.WriteLine(numberOfDays + " dni");
+        }
+    }
+}

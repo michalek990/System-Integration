@@ -1,0 +1,13 @@
+Windows 11
+IntelliJ IDEA 2021.3.1 (Community Edition)
+Build #IC-213.6461.79, built on December 28, 2021
+Runtime version: 11.0.13+7-b1751.21 amd64
+VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
+Windows 11 10.0
+GC: G1 Young Generation, G1 Old Generation
+Memory: 2040M
+Cores: 12
+Non-Bundled Plugins:
+    org.jetbrains.kotlin (213-1.6.10-release-923-IJ5744.223)
+
+Kotlin: 213-1.6.10-release-923-IJ5744.223

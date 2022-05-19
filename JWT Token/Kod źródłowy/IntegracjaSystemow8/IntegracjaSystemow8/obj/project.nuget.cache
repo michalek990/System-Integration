@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "aMbqAy5qNI9VVAqbdSU71RrjxJwu3fF+rs4w9NEeqQO3gtpYSjmUIb7xazdzr7Db1C5XH2c1uh8EX+K7kRP0+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\student.WIN-B7OPO92UO3Q\\Desktop\\Grzeszuk_Michał_Lab8\\Kod źródłowy\\IntegracjaSystemow8\\IntegracjaSystemow8\\IntegracjaSystemow8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\student.WIN-B7OPO92UO3Q\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.11\\microsoft.aspnetcore.authentication.jwtbearer.5.0.11.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\student.WIN-B7OPO92UO3Q\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.17.0\\microsoft.identitymodel.jsonwebtokens.6.17.0.nupkg.sha512",
+    "C:\\Users\\student.WIN-B7OPO92UO3Q\\.nuget\\packages\\microsoft.identitymodel.logging\\6.17.0\\microsoft.identitymodel.logging.6.17.0.nupkg.sha512",
+    "C:\\Users\\student.WIN-B7OPO92UO3Q\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.7.1\\microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
+    "C:\\Users\\student.WIN-B7OPO92UO3Q\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.7.1\\microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
+    "C:\\Users\\student.WIN-B7OPO92UO3Q\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.17.0\\microsoft.identitymodel.tokens.6.17.0.nupkg.sha512",
+    "C:\\Users\\student.WIN-B7OPO92UO3Q\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.17.0\\system.identitymodel.tokens.jwt.6.17.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
