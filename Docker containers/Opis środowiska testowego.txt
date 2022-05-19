@@ -1,0 +1,13 @@
+Version: 1.66.2
+Commit: dfd34e8260c270da74b5c2d86d61aee4b6d56977
+Date: 2022-04-11T07:49:24.808Z
+Electron: 17.2.0
+Chromium: 98.0.4758.109
+Node.js: 16.13.0
+V8: 9.8.177.11-electron.0
+OS: Linux x64 5.13.0-40-generic
+
+ubuntu 20.4
+
+Docker Engine
+v20.10.14

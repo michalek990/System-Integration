@@ -1,0 +1,18 @@
+Windows 10
+
+Środowisko: Visual Studio Code
+Version: 1.60.0 (system setup)
+Commit: e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff
+Date: 2021-09-01T10:41:52.311Z
+Electron: 13.1.8
+Chrome: 91.0.4472.164
+Node.js: 14.16.0
+V8: 9.1.269.39-electron.0
+OS: Windows_NT x64 10.0.19043
+
+XAMPP server Apache MySQL Control Panel v3.3.0
+Apache JMeter Version 5.4.3
+
+Wnioski: Im dłużej wykonywane były testy tym nie tylko wzrastała ilość błędów jak i ich procent, ale także wzrastało
+odchylenie standardowe dla błędów. Pokazuje to, że im dłużej przeprowadzamy testy tym więcej pojawia się błędów, które
+znacząco wychodzą poza nasze odchylenie standrdowe.
